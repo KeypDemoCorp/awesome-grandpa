@@ -1,3 +1,3 @@
 # awesome-grandpa
-test assign
-Self assign
+Improved feature
+Test assign
